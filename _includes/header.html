@@ -5,12 +5,15 @@
     </div>
     <nav class="Header-nav">
       {% for item in site.data.settings.menu %}
+        {% assign item_url = item.url | remove: '/' %}
+        {% assign page_url = page.url | remove: '/' | remove: 'index.html' %}
+        
         {% if item.external %}
         <a href="{{ item.url }}" target="_blank" rel="noopener nofollow">
             {{ item.name }}
         </a>
         {% else %}
-          <a href="{{ site.github.url }}{{ item.url }}" {% if page.url == item.url or page.url == item.url | append: '/' %}class="active"{% endif %}>{{ item.name }}</a>
+          <a href="{{ site.github.url }}{{ item.url }}" {% if item_url == page_url %}class="active"{% endif %}>{{ item.name }}</a>
         {% endif %}
       {% endfor %}
     </nav>
@@ -19,3 +22,4 @@
     ==============================================================================================================================================================
   </div>
 </header>
+
