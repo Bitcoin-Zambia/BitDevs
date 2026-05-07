@@ -12,6 +12,11 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+
+    @media (max-width: $small-screen) {
+      flex-direction: column;
+      gap: 1rem;
+    }
   }
 
   &-logo {
@@ -28,12 +33,18 @@
 
     @media (max-width: $small-screen) {
       font-size: 1.1rem;
+      flex-direction: column;
+      gap: 0.5rem;
     }
 
     a {
       color: #333;
       opacity: 0.4;
       margin-left: 1.5rem;
+
+      @media (max-width: $small-screen) {
+        margin-left: 0;
+      }
 
       &:hover {
         color: $primary-color;
