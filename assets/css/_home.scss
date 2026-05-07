@@ -36,7 +36,7 @@
 }
 
 .ascii-art {
-  font-family: 'Courier New', monospace;
+  font-family: 'Courier New', Courier, monospace;
   text-align: center;
   display: flex;
   justify-content: center;
@@ -46,9 +46,11 @@
   letter-spacing: 0;
   overflow-x: auto;
   padding: 1rem 0;
+  -webkit-text-size-adjust: 100%;
+  font-variant-numeric: tabular-nums;
 
   @media (max-width: $mid-screen) {
-    font-size: 0.65rem;
+    font-size: 0.55rem;
     line-height: 1;
     overflow-x: scroll;
   }
