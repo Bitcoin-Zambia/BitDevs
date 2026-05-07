@@ -37,14 +37,15 @@
 
 .ascii-art {
   text-align: center;
-  display: inline-block;
+  justify-content: center;
+  display: flex;
   width: 100%;
   font-size: 1rem;
   line-height: 1.2;
   overflow-x: auto;
   padding: 1rem 0;
 
-  @media (max-width: $small-screen) {
+  @media (max-width: $mid-screen) {
     font-size: 0.75rem;
     overflow-x: scroll;
   }
