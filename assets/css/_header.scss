@@ -10,7 +10,7 @@
 
   &-inner {
     display: flex;
-    justify-content: flex-start;
+    justify-content: space-between;
     align-items: center;
 
     @media (max-width: $mid-screen) {
@@ -31,6 +31,7 @@
   &-nav {
     display: flex;
     font-size: 1.3rem;
+    justify-content: space-between;
 
     @media (max-width: $mid-screen) {
       font-size: 1.1rem;
