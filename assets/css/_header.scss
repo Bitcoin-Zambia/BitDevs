@@ -13,7 +13,7 @@
     justify-content: space-between;
     align-items: center;
 
-    @media (max-width: $small-screen) {
+    @media (max-width: $mid-screen) {
       flex-direction: column;
       gap: 1rem;
     }
@@ -22,7 +22,7 @@
   &-logo {
     font-size: 2.2rem;
 
-    @media (max-width: $small-screen) {
+    @media (max-width: $mid-screen) {
       font-size: 1.8rem;
     }
   }
@@ -31,7 +31,7 @@
     display: flex;
     font-size: 1.3rem;
 
-    @media (max-width: $small-screen) {
+    @media (max-width: $mid-screen) {
       font-size: 1.1rem;
       flex-direction: column;
       gap: 0.5rem;
@@ -42,7 +42,7 @@
       opacity: 0.4;
       margin-left: 1.5rem;
 
-      @media (max-width: $small-screen) {
+      @media (max-width: $mid-screen) {
         margin-left: 0;
       }
 
