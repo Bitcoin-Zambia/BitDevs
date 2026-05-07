@@ -53,6 +53,12 @@
         color: $primary-color;
         opacity: 1;
       }
+
+      &.active {  // Current page
+      border: 2px solid $primary-color;
+      opacity: 1;
+      color: $primary-color;
+      }
     }
   }
 }
