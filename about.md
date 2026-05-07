@@ -27,13 +27,9 @@ We welcome developers, builders, educators, entrepreneurs, students, and anyone 
 ### What We Do
 
    - **Bootcamps**: A structured program combining education, collaboration, and practical building to grow Bitcoin technical skills in Zambia.
-  
    - **Technical Discussion Meetups**: Regular Socratic Seminars covering the latest Bitcoin technology, research, BIPs, and implementation updates.
-
-   - **Workshops & Hackathons**: Hands-on sessions for developers and technologists to build local Bitcoin solutions
-
+   - **Workshops & Hackathons**: Hands-on sessions for developers and technologists to build local Bitcoin solutions.
    - **Reading Groups**: Deep dives into Bitcoin technical literature.
-  
    - **Collaborative Projects**: Support for open-source Bitcoin development in the Zambian context.
 
 ### Socratic Seminars
