@@ -12,35 +12,36 @@ We also share developer-focused opportunities such as grants, bounties, fellowsh
 
 We welcome developers, builders, educators, entrepreneurs, students, and anyone curious about how Bitcoin works under the hood and how it can be applied to solve real challenges in Zambia.
 
-### Key Milestones Since 2025
 
-    - Zambia’s First Bitcoin Developer Meetups (March 2025)
-    
-    - Bitcoin Lightning Developer Bootcamp – Lusaka (August 2025)
-    
-    - Female Developers Meetup – Lusaka (October 2025)
-    
-    - Two BitDevs Zambia members among winners of the global <a href="https://www.time2build.dev/" target="_blank" rel="noopener noreferrer">Breez Time2Build Challenge</a>
+### Key Milestones since 2025
 
-    - Bit2Kwacha – Instant Bitcoin/Kwacha Exchange Platform (resulting from Lightning Bootcamp) – <a href="https://bit2kwacha.info/" target="_blank" rel="noopener noreferrer">bit2kwacha.info</a>
+  - Zambia’s First Bitcoin Developer Meetups (March 2025)
+    
+  - Bitcoin Lightning Developer Bootcamp – Lusaka (August 2025)
+    
+  - Female Developers Meetup – Lusaka (October 2025)
+    
+  - Two BitDevs Zambia members among winners of the global <a href="https://www.time2build.dev/" target="_blank" rel="noopener noreferrer">Breez Time2Build Challenge</a>
+
+  - Bit2Kwacha – Instant Bitcoin/Kwacha Exchange Platform (resulting from Lightning Bootcamp) – <a href="https://bit2kwacha.info/" target="_blank" rel="noopener noreferrer">bit2kwacha.info</a>
   
-    - Recognized by <a href="https://www.btrust.tech/" target="_blank" rel="noopener noreferrer">Btrust</a> for supporting a strong and sustainable local BitDevs community in Africa – <a href="https://x.com/btrustteam/status/2014361491479109705" target="_blank" rel="noopener noreferrer">Twitter acknowledgement</a>
+  - Recognized by <a href="https://www.btrust.tech/" target="_blank" rel="noopener noreferrer">Btrust</a> for supporting a strong and sustainable local BitDevs community in Africa – <a href="https://x.com/btrustteam/status/2014361491479109705" target="_blank" rel="noopener noreferrer">Twitter acknowledgement</a>
   
-    - In early 2026, BitDevs Zambia member Victor Chabunda awarded a <a href="https://blog.btrust.tech/q1-2026-btrust-developer-grant-announcement/" rel="noopener noreferrer">Btrust Developer Grant</a>
+  - In early 2026, BitDevs Zambia member Victor Chabunda awarded a <a href="https://blog.btrust.tech/q1-2026-btrust-developer-grant-announcement/" rel="noopener noreferrer">Btrust Developer Grant</a>
   
-    - BitDevs members currently participating in **BOSS Challenge** and **Mastering Bitcoin (Live Cohort & Self-paced)**
+  - BitDevs members currently participating in **BOSS Challenge** and **Mastering Bitcoin (Live Cohort & Self-paced)**
 
 ### What We Do
 
-    - **Bootcamps**: A structured program combining education, collaboration, and practical building to grow Bitcoin technical skills in Zambia.
+  - **Bootcamps**: A structured program combining education, collaboration, and practical building to grow Bitcoin technical skills in Zambia.
   
-    - **Technical Discussion Meetups**: Regular Socratic Seminars covering the latest Bitcoin technology, research, BIPs, and implementation updates.
+  - **Technical Discussion Meetups**: Regular Socratic Seminars covering the latest Bitcoin technology, research, BIPs, and implementation updates.
 
-    - **Workshops & Hackathons**: Hands-on sessions for developers and technologists to build local Bitcoin solutions
+  - **Workshops & Hackathons**: Hands-on sessions for developers and technologists to build local Bitcoin solutions
 
-    - **Reading Groups**: Deep dives into Bitcoin technical literature.
+  - **Reading Groups**: Deep dives into Bitcoin technical literature.
   
-    - **Collaborative Projects**: Support for open-source Bitcoin development in the Zambian context.
+  - **Collaborative Projects**: Support for open-source Bitcoin development in the Zambian context.
 
 ### Socratic Seminars
 
