@@ -10,7 +10,7 @@
             {{ item.name }}
         </a>
         {% else %}
-          <a href="{{ site.github.url }}{{ item.url }}">{{ item.name }}</a>
+          <a href="{{ site.github.url }}{{ item.url }}" {% if page.url == item.url or page.url == item.url | append: '/' %}class="active"{% endif %}>{{ item.name }}</a>
         {% endif %}
       {% endfor %}
     </nav>
