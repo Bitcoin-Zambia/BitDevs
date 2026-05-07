@@ -12,7 +12,7 @@
     display: flex;
     justify-content: space-between;
 
-    @media (max-width: $small-screen) {
+    @media (max-width: $mid-screen) {
       flex-direction: column;
       gap: 1rem;
       justify-content: flex-start;
