@@ -6,7 +6,7 @@ permalink: /connect/
 
 ### Connect with Us
 
-#### BitDevs
+#### BitDevs Zambia
 
 <ul class="partners-list">
 <li class="partner">
